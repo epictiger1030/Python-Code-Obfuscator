@@ -1,6 +1,6 @@
 
 <p align = "center">
-    <img src = "Logo.png" alt="Logo">
+    <img src = "PyLogo.png" alt="Logo">
 </p>
 
 <h2 align = "center">

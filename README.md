@@ -7,7 +7,7 @@
     <strong>Secure Python Code Obfuscator!</strong>
 </h2>
 <h3 align = "center">
-    <strong>🔒 Secure your code at https://pythonobfuscator.net 🔒</strong>
+    <strong>🔒 Secure your code at https://freecodingtools.org/py-obfuscator 🔒</strong>
 </h3>
 
 ## Example
